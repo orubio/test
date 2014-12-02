@@ -3,7 +3,7 @@
 <p>contenido del readme</p>
 <pre>
 	Hola
-		<span>
+		<span style="color: red;">
 			.clase-1 { font-size: 16px; }
 		</span>
 </pre>
